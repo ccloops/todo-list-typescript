@@ -1,0 +1,29 @@
+{
+  "name": "todo-list-typescript",
+  "version": "1.0.0",
+  "description": "Todo List App TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccloops/todo-list-typescript.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Todo",
+    "List"
+  ],
+  "author": "Catherine Looper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccloops/todo-list-typescript/issues"
+  },
+  "homepage": "https://github.com/ccloops/todo-list-typescript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "jest": "^22.4.2"
+  }
+}
