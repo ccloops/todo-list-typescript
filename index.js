@@ -1,5 +1,5 @@
 'use strict';
-function greeter(person: string) {
+function greeter(person) {
     return "Hello, " + person;
 }
 var user = "Jane User";
